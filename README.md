@@ -13,3 +13,8 @@ JSON editions of the LDS scriptures. Includes changes from the [2013 edition](ht
 ### Changelog
 
 - 2016-07-15: Book of Mormon version 1
+
+
+### License
+
+These files are in the public domain.
