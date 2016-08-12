@@ -34586,6 +34586,7 @@
             "lds_slug": "moro"
         }
     ],
+	"last_modified": "2016-08-12",
     "lds_slug": "bofm",
     "subtitle": "Another Testament of Jesus Christ",
     "testimonies": [
@@ -34622,5 +34623,6 @@
         ],
         "title": "The Book of Mormon",
         "translated_by": "Translated by Joseph Smith, Jun."
-    }
+    },
+	"version": 3
 }

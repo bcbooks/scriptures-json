@@ -1,4 +1,5 @@
 {
+	"last_modified": "2016-08-12",
 	"lds_slug": "dc-testament/dc",
 	"sections": [
 		{
@@ -19102,5 +19103,6 @@
 	],
 	"subsubtitle": "Containing Revelations Given to Joseph Smith, the Prophet with Some Additions by His Successors in the Presidency of the Church",
 	"subtitle": "of The Church of Jesus Christ of Latter-day Saints",
-	"title": "The Doctrine and Covenants"
+	"title": "The Doctrine and Covenants",
+	"version": 2
 }
