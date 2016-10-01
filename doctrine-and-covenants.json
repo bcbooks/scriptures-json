@@ -1,5 +1,5 @@
 {
-	"last_modified": "2016-08-12",
+	"last_modified": "2016-10-01",
 	"lds_slug": "dc-testament/dc",
 	"sections": [
 		{
@@ -17291,6 +17291,7 @@
 		{
 			"section": 127,
 			"reference": "D&C 127",
+			"signature": "Joseph Smith.",
 			"verses": [
 				{
 					"reference": "D&C 127:1",
@@ -17357,6 +17358,7 @@
 		{
 			"section": 128,
 			"reference": "D&C 128",
+			"signature": "Joseph Smith.",
 			"verses": [
 				{
 					"reference": "D&C 128:1",
