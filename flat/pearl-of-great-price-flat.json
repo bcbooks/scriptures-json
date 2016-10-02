@@ -1,5 +1,5 @@
 {
-	"last_modified": "2016-10-01",
+    "last_modified": "2016-10-02",
     "verses": [
         {
             "reference": "Moses 1:1",
@@ -151,7 +151,7 @@
         },
         {
             "reference": "Moses 1:38",
-            "text": "And as one earth shall pass away, and the heavens thereof even so shall another come, and there is no end to my works, neither to my words."
+            "text": "And as one earth shall pass away, and the heavens thereof even so shall another come; and there is no end to my works, neither to my words."
         },
         {
             "reference": "Moses 1:39",
@@ -443,7 +443,7 @@
         },
         {
             "reference": "Moses 4:13",
-            "text": "And the eyes of them both were opened, and they knew that they had been naked. And they sewed fig-leaves together and made themselves aprons."
+            "text": "And the eyes of them both were opened, and they knew that they had been naked. And they sewed fig leaves together and made themselves aprons."
         },
         {
             "reference": "Moses 4:14",
@@ -599,7 +599,7 @@
         },
         {
             "reference": "Moses 5:20",
-            "text": "And Abel he also brought of the firstlings of his flock, and of the fat thereof. And the Lord had respect unto Abel, and to his offering;"
+            "text": "And Abel, he also brought of the firstlings of his flock, and of the fat thereof. And the Lord had respect unto Abel, and to his offering;"
         },
         {
             "reference": "Moses 5:21",
@@ -1443,7 +1443,7 @@
         },
         {
             "reference": "Abraham 1:5",
-            "text": "My fathers having turned from their righteousness, and from the holy commandments which the Lord their God had given unto them, unto the worshiping of the gods of the heathen, utterly refused to hearken to my voice;"
+            "text": "My fathers, having turned from their righteousness, and from the holy commandments which the Lord their God had given unto them, unto the worshiping of the gods of the heathen, utterly refused to hearken to my voice;"
         },
         {
             "reference": "Abraham 1:6",
@@ -2199,7 +2199,7 @@
         },
         {
             "reference": "Joseph Smith—History 1:3",
-            "text": "I was born in the year of our Lord one thousand eight hundred and five, on the twenty-third day of December, in the town of Sharon, Windsor county, State of Vermont . . . My father, Joseph Smith, Sen., left the State of Vermont, and moved to Palmyra, Ontario (now Wayne) county, in the State of New York, when I was in my tenth year, or thereabouts. In about four years after my father's arrival in Palmyra, he moved with his family into Manchester in the same county of Ontario—"
+            "text": "I was born in the year of our Lord one thousand eight hundred and five, on the twenty-third day of December, in the town of Sharon, Windsor county, State of Vermont. …  My father, Joseph Smith, Sen., left the State of Vermont, and moved to Palmyra, Ontario (now Wayne) county, in the State of New York, when I was in my tenth year, or thereabouts. In about four years after my father's arrival in Palmyra, he moved with his family into Manchester in the same county of Ontario—"
         },
         {
             "reference": "Joseph Smith—History 1:4",
@@ -2295,7 +2295,7 @@
         },
         {
             "reference": "Joseph Smith—History 1:27",
-            "text": "I continued to pursue my common vocations in life until the twenty—first of September, one thousand eight hundred and twenty-three, all the time suffering severe persecution at the hands of all classes of men, both religious and irreligious, because I continued to affirm that I had seen a vision."
+            "text": "I continued to pursue my common vocations in life until the twenty-first of September, one thousand eight hundred and twenty-three, all the time suffering severe persecution at the hands of all classes of men, both religious and irreligious, because I continued to affirm that I had seen a vision."
         },
         {
             "reference": "Joseph Smith—History 1:28",
@@ -2542,5 +2542,5 @@
             "text": "We believe in being honest, true, chaste, benevolent, virtuous, and in doing good to all men; indeed, we may say that we follow the admonition of Paul—We believe all things, we hope all things, we have endured many things, and hope to be able to endure all things. If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things."
         }
     ],
-	"version": 1
+    "version": 2
 }

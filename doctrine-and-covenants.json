@@ -1,5 +1,5 @@
 {
-	"last_modified": "2016-10-01",
+	"last_modified": "2016-10-02",
 	"lds_slug": "dc-testament/dc",
 	"sections": [
 		{
@@ -1293,7 +1293,7 @@
 			"verses": [
 				{
 					"reference": "D&C 11:1",
-					"text": "A Great and marvelous work is about to come forth among the children of men.",
+					"text": "A great and marvelous work is about to come forth among the children of men.",
 					"verse": 1
 				},
 				{
@@ -1780,7 +1780,7 @@
 				},
 				{
 					"reference": "D&C 18:18",
-					"text": "Ask the Father in my name, in faith believing that you shall receive, and you shall have the Holy Ghost, which manifesteth all things which are expedient unto the children of men.",
+					"text": "Ask the Father in my name in faith, believing that you shall receive, and you shall have the Holy Ghost, which manifesteth all things which are expedient unto the children of men.",
 					"verse": 18
 				},
 				{
@@ -2202,7 +2202,7 @@
 				},
 				{
 					"reference": "D&C 20:12",
-					"text": "Thereby showing that he is the same God yesterday, today,and forever. Amen.",
+					"text": "Thereby showing that he is the same God yesterday, today, and forever. Amen.",
 					"verse": 12
 				},
 				{
@@ -4000,7 +4000,7 @@
 				},
 				{
 					"reference": "D&C 38:24",
-					"text": "And let every man esteem his brother as himself, and practise virtue and holiness before me.",
+					"text": "And let every man esteem his brother as himself, and practice virtue and holiness before me.",
 					"verse": 24
 				},
 				{
@@ -4785,7 +4785,7 @@
 			"verses": [
 				{
 					"reference": "D&C 43:1",
-					"text": "O HEARKEN, ye elders of my church, and give ear to the words which I shall speak unto you.",
+					"text": "O hearken, ye elders of my church, and give ear to the words which I shall speak unto you.",
 					"verse": 1
 				},
 				{
@@ -5543,7 +5543,7 @@
 				},
 				{
 					"reference": "D&C 46:33",
-					"text": "And ye must practise virtue and holiness before me continually. Even so. Amen.",
+					"text": "And ye must practice virtue and holiness before me continually. Even so. Amen.",
 					"verse": 33
 				}
 			]
@@ -6294,7 +6294,7 @@
 				},
 				{
 					"reference": "D&C 52:39",
-					"text": "Let the residue of the elders watch over the churches, and declare the word in the regions round about them; and let them labor with their own hands that there be no idolatry nor wickedness practised.",
+					"text": "Let the residue of the elders watch over the churches, and declare the word in the regions round about them; and let them labor with their own hands that there be no idolatry nor wickedness practiced.",
 					"verse": 39
 				},
 				{
@@ -7096,7 +7096,7 @@
 				},
 				{
 					"reference": "D&C 59:23",
-					"text": "But learn that he who doeth the works of righteousness shall receive his reward, even peace in this world and eternal life in the world to come.",
+					"text": "But learn that he who doeth the works of righteousness shall receive his reward, even peace in this world, and eternal life in the world to come.",
 					"verse": 23
 				},
 				{
@@ -7580,7 +7580,7 @@
 				},
 				{
 					"reference": "D&C 63:26",
-					"text": "Nevertheless, I, the Lord, render unto Caesar the things which are Caesar's.",
+					"text": "Nevertheless, I, the Lord, render unto Cæsar the things which are Cæsar's.",
 					"verse": 26
 				},
 				{
@@ -8792,7 +8792,7 @@
 			"verses": [
 				{
 					"reference": "D&C 75:1",
-					"text": "Verily, verily I say unto you, I who speak even by the voice of my Spirit, even Alpha and Omega, your Lord and your God—",
+					"text": "Verily, verily, I say unto you, I who speak even by the voice of my Spirit, even Alpha and Omega, your Lord and your God—",
 					"verse": 1
 				},
 				{
@@ -9058,7 +9058,7 @@
 				},
 				{
 					"reference": "D&C 76:17",
-					"text": "And shall come forth; they who have done good in the resurrection of the just; and they who have done evil, in the resurrection of the unjust.",
+					"text": "And shall come forth; they who have done good, in the resurrection of the just; and they who have done evil, in the resurrection of the unjust.",
 					"verse": 17
 				},
 				{
@@ -10036,7 +10036,7 @@
 			"verses": [
 				{
 					"reference": "D&C 84:1",
-					"text": "A REVELATION of Jesus Christ unto his servant Joseph Smith, Jun., and six elders, as they united their hearts and lifted their voices on high.",
+					"text": "A revelation of Jesus Christ unto his servant Joseph Smith, Jun., and six elders, as they united their hearts and lifted their voices on high.",
 					"verse": 1
 				},
 				{
@@ -12650,7 +12650,7 @@
 				},
 				{
 					"reference": "D&C 98:25",
-					"text": "And again, if your enemy shall smite you the second time, and you revile not against your enemy, and bear it patiently, your reward shall be an hundred fold.",
+					"text": "And again, if your enemy shall smite you the second time, and you revile not against your enemy, and bear it patiently, your reward shall be an hundred-fold.",
 					"verse": 25
 				},
 				{
@@ -13421,6 +13421,7 @@
 		{
 			"section": 102,
 			"reference": "D&C 102",
+			"signature": "Oliver Cowdery, Orson Hyde, Clerks",
 			"verses": [
 				{
 					"reference": "D&C 102:1",
@@ -13589,7 +13590,7 @@
 				},
 				{
 					"reference": "D&C 102:34",
-					"text": "The twelve councilors then proceeded to cast lots or ballot, to ascertain who should speak first, and the following was the result, namely: 1, Oliver Cowdery; 2, Joseph Coe; 3, Samuel H. Smith; 4, Luke Johnson; 5, John S. Carter; 6, Sylvester Smith; 7, John Johnson; 8, Orson Hyde; 9, Jared Carter; 10, Joseph Smith, Sen.; 11, John Smith; 12, Martin Harris.",
+					"text": "The twelve councilors then proceeded to cast lots or ballot, to ascertain who should speak first, and the following was the result, namely: 1, Oliver Cowdery; 2, Joseph Coe; 3, Samuel H. Smith; 4, Luke Johnson; 5, John S. Carter; 6, Sylvester Smith; 7, John Johnson; 8, Orson Hyde; 9, Jared Carter; 10, Joseph Smith, Sen.; 11, John Smith; 12, Martin Harris. After prayer the conference adjourned.",
 					"verse": 34
 				}
 			]
@@ -13700,12 +13701,12 @@
 				},
 				{
 					"reference": "D&C 103:21",
-					"text": "Verily, verily I say unto you, that my servant Joseph Smith, Jun. is the man to whom I likened the servant to whom the Lord of the vineyard spake in the parable which I have given unto you.",
+					"text": "Verily, verily I say unto you, that my servant Joseph Smith, Jun., is the man to whom I likened the servant to whom the Lord of the vineyard spake in the parable which I have given unto you.",
 					"verse": 21
 				},
 				{
 					"reference": "D&C 103:22",
-					"text": "Therefore let my servant Joseph Smith, Jun. say unto the strength of my house, my young men and the middle aged—Gather yourselves together unto the land of Zion, upon the land which I have bought with money that has been consecrated unto me.",
+					"text": "Therefore let my servant Joseph Smith, Jun., say unto the strength of my house, my young men and the middle aged—Gather yourselves together unto the land of Zion, upon the land which I have bought with money that has been consecrated unto me.",
 					"verse": 22
 				},
 				{
@@ -14644,7 +14645,7 @@
 				},
 				{
 					"reference": "D&C 107:30",
-					"text": "The decisions of these quorums, or either of them, are to be made in all righteousness, in holiness, and lowliness of heart, meekness and long suffering, and in faith, and virtue, and knowledge, temperance, patience, godliness, brotherly kindness and charity;",
+					"text": "The decisions of these quorums, or either of them, are to be made in all righteousness, in holiness, and lowliness of heart, meekness and long-suffering, and in faith, and virtue, and knowledge, temperance, patience, godliness, brotherly kindness and charity;",
 					"verse": 30
 				},
 				{
@@ -15216,7 +15217,7 @@
 				},
 				{
 					"reference": "D&C 109:34",
-					"text": "O Jehovah, have mercy upon this people, and as all men sin forgive the transgressions of thy people, and let them be blotted out forever.",
+					"text": "O Jehovah, have mercy upon this people, and as all men sin, forgive the transgressions of thy people, and let them be blotted out forever.",
 					"verse": 34
 				},
 				{
@@ -15543,7 +15544,7 @@
 			"verses": [
 				{
 					"reference": "D&C 111:1",
-					"text": "I, THE Lord your God, am not displeased with your coming this journey, notwithstanding your follies.",
+					"text": "I, the Lord your God, am not displeased with your coming this journey, notwithstanding your follies.",
 					"verse": 1
 				},
 				{
@@ -15749,7 +15750,7 @@
 				},
 				{
 					"reference": "D&C 112:30",
-					"text": "For unto you, the Twelve, and those, the First Presidency, who are appointed with you to be your counselors and your leaders, is the power of this priesthood given, for the last days and for the last time, in the which is the dispensation of the fulness of times.",
+					"text": "For unto you, the Twelve, and those, the First Presidency, who are appointed with you to be your counselors and your leaders, is the power of this priesthood given, for the last days and for the last time, in the which is the dispensation of the fulness of times,",
 					"verse": 30
 				},
 				{
@@ -16138,7 +16139,7 @@
 			"verses": [
 				{
 					"reference": "D&C 121:1",
-					"text": "O GOD, where art thou? And where is the pavilion that covereth thy hiding place?",
+					"text": "O God, where art thou? And where is the pavilion that covereth thy hiding place?",
 					"verse": 1
 				},
 				{
@@ -16445,7 +16446,7 @@
 				},
 				{
 					"reference": "D&C 123:5",
-					"text": "And all that are in the magazines, and in the encyclopedias, and all the libelous histories that are published, and are writing, and by whom, and present the whole concatenation of diabolical rascality and nefarious and murderous impositions that have been practised upon this people—",
+					"text": "And all that are in the magazines, and in the encyclopedias, and all the libelous histories that are published, and are writing, and by whom, and present the whole concatenation of diabolical rascality and nefarious and murderous impositions that have been practiced upon this people—",
 					"verse": 5
 				},
 				{
@@ -16751,7 +16752,7 @@
 				},
 				{
 					"reference": "D&C 124:48",
-					"text": "For instead of blessings, ye, by your own works, bring cursings, wrath, indignation, and judgments upon your own heads, by your follies, and by all your abominations, which you practise before me, saith the Lord.",
+					"text": "For instead of blessings, ye, by your own works, bring cursings, wrath, indignation, and judgments upon your own heads, by your follies, and by all your abominations, which you practice before me, saith the Lord.",
 					"verse": 48
 				},
 				{
@@ -16866,7 +16867,7 @@
 				},
 				{
 					"reference": "D&C 124:71",
-					"text": "And if they do appropriate any portion of that stock anywhere else, only in that house, without the consent of the stockholder, and do not repay fourfold for the stock which they appropriate anywhere else, only in that house, they shall be accursed, and shall be moved out of their place, saith the Lord God; for I, the Lord, am God, and cannot be mocked in any of these things.",
+					"text": "And if they do appropriate any portion of that stock anywhere else, only in that house, without the consent of the stockholder, and do not repay four-fold for the stock which they appropriate anywhere else, only in that house, they shall be accursed, and shall be moved out of their place, saith the Lord God; for I, the Lord, am God, and cannot be mocked in any of these things.",
 					"verse": 71
 				},
 				{
@@ -17387,7 +17388,7 @@
 				},
 				{
 					"reference": "D&C 128:6",
-					"text": "And further, I want you to remember that John the Revelator was contemplating this very subject in relation to the dead, when he declared, as you will find recorded in Revelation 20: 12—And I saw the dead, small and great, stand before God; and the books were opened; and another book was opened, which is the book of life; and the dead were judged out of those things which were written in the books, according to their works.",
+					"text": "And further, I want you to remember that John the Revelator was contemplating this very subject in relation to the dead, when he declared, as you will find recorded in Revelation 20:12—And I saw the dead, small and great, stand before God; and the books were opened; and another book was opened, which is the book of life; and the dead were judged out of those things which were written in the books, according to their works.",
 					"verse": 6
 				},
 				{
@@ -17407,7 +17408,7 @@
 				},
 				{
 					"reference": "D&C 128:10",
-					"text": "And again, for the precedent, Matthew 16: 18, 19: And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall be loosed in heaven.",
+					"text": "And again, for the precedent, Matthew 16:18, 19: And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall be loosed in heaven.",
 					"verse": 10
 				},
 				{
@@ -17422,7 +17423,7 @@
 				},
 				{
 					"reference": "D&C 128:13",
-					"text": "Consequently, the baptismal font was instituted as a similitude of the grave, and was commanded to be in a place underneath where the living are wont to assemble, to show forth the living and the dead, and that all things may have their likeness, and that they may accord one with another—that which is earthly conforming to that which is heavenly, as Paul hath declared, 1 Corinthians 15: 46, 47, and 48:",
+					"text": "Consequently, the baptismal font was instituted as a similitude of the grave, and was commanded to be in a place underneath where the living are wont to assemble, to show forth the living and the dead, and that all things may have their likeness, and that they may accord one with another—that which is earthly conforming to that which is heavenly, as Paul hath declared, 1 Corinthians 15:46, 47, and 48:",
 					"verse": 13
 				},
 				{
@@ -17437,7 +17438,7 @@
 				},
 				{
 					"reference": "D&C 128:16",
-					"text": "And now, in relation to the baptism for the dead, I will give you another quotation of Paul, 1 Corinthians 15: 29: Else what shall they do which are baptized for the dead, if the dead rise not at all? Why are they then baptized for the dead?",
+					"text": "And now, in relation to the baptism for the dead, I will give you another quotation of Paul, 1 Corinthians 15:29: Else what shall they do which are baptized for the dead, if the dead rise not at all? Why are they then baptized for the dead?",
 					"verse": 16
 				},
 				{
@@ -17554,7 +17555,7 @@
 				},
 				{
 					"reference": "D&C 130:3",
-					"text": "John 14: 23—The appearing of the Father and the Son, in that verse, is a personal appearance; and the idea that the Father and the Son dwell in a man's heart is an old sectarian notion, and is false.",
+					"text": "John 14:23—The appearing of the Father and the Son, in that verse, is a personal appearance; and the idea that the Father and the Son dwell in a man's heart is an old sectarian notion, and is false.",
 					"verse": 3
 				},
 				{
@@ -17589,7 +17590,7 @@
 				},
 				{
 					"reference": "D&C 130:10",
-					"text": "Then the white stone mentioned in Revelation 2: 17, will become a Urim and Thummim to each individual who receives one, whereby things pertaining to a higher order of kingdoms will be made known;",
+					"text": "Then the white stone mentioned in Revelation 2:17, will become a Urim and Thummim to each individual who receives one, whereby things pertaining to a higher order of kingdoms will be made known;",
 					"verse": 10
 				},
 				{
@@ -17981,7 +17982,7 @@
 				},
 				{
 					"reference": "D&C 132:55",
-					"text": "But if she will not abide this commandment, then shall my servant Joseph do all things for her, even as he hath said; and I will bless him and multiply him and give unto him an hundredfold in this world, of fathers and mothers, brothers and sisters, houses and lands, wives and children, and crowns of eternal lives in the eternal worlds.",
+					"text": "But if she will not abide this commandment, then shall my servant Joseph do all things for her, even as he hath said; and I will bless him and multiply him and give unto him an hundred-fold in this world, of fathers and mothers, brothers and sisters, houses and lands, wives and children, and crowns of eternal lives in the eternal worlds.",
 					"verse": 55
 				},
 				{
@@ -18842,12 +18843,12 @@
 				},
 				{
 					"reference": "D&C 138:9",
-					"text": "\"Which sometime were disobedient, when once the long-suffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.\" (1 Peter 3: 18—20.)",
+					"text": "\"Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.\" (1 Peter 3:18–20.)",
 					"verse": 9
 				},
 				{
 					"reference": "D&C 138:10",
-					"text": "\"For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.\" (1 Peter 4: 6.)",
+					"text": "\"For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.\" (1 Peter 4:6.)",
 					"verse": 10
 				},
 				{
@@ -19106,5 +19107,5 @@
 	"subsubtitle": "Containing Revelations Given to Joseph Smith, the Prophet with Some Additions by His Successors in the Presidency of the Church",
 	"subtitle": "of The Church of Jesus Christ of Latter-day Saints",
 	"title": "The Doctrine and Covenants",
-	"version": 2
+	"version": 3
 }

@@ -194,7 +194,7 @@
                         },
                         {
                             "reference": "Moses 1:38",
-                            "text": "And as one earth shall pass away, and the heavens thereof even so shall another come, and there is no end to my works, neither to my words.",
+                            "text": "And as one earth shall pass away, and the heavens thereof even so shall another come; and there is no end to my works, neither to my words.",
                             "verse": 38
                         },
                         {
@@ -577,7 +577,7 @@
                         },
                         {
                             "reference": "Moses 4:13",
-                            "text": "And the eyes of them both were opened, and they knew that they had been naked. And they sewed fig-leaves together and made themselves aprons.",
+                            "text": "And the eyes of them both were opened, and they knew that they had been naked. And they sewed fig leaves together and made themselves aprons.",
                             "verse": 13
                         },
                         {
@@ -778,7 +778,7 @@
                         },
                         {
                             "reference": "Moses 5:20",
-                            "text": "And Abel he also brought of the firstlings of his flock, and of the fat thereof. And the Lord had respect unto Abel, and to his offering;",
+                            "text": "And Abel, he also brought of the firstlings of his flock, and of the fat thereof. And the Lord had respect unto Abel, and to his offering;",
                             "verse": 20
                         },
                         {
@@ -1864,7 +1864,7 @@
                         },
                         {
                             "reference": "Abraham 1:5",
-                            "text": "My fathers having turned from their righteousness, and from the holy commandments which the Lord their God had given unto them, unto the worshiping of the gods of the heathen, utterly refused to hearken to my voice;",
+                            "text": "My fathers, having turned from their righteousness, and from the holy commandments which the Lord their God had given unto them, unto the worshiping of the gods of the heathen, utterly refused to hearken to my voice;",
                             "verse": 5
                         },
                         {
@@ -2593,16 +2593,16 @@
 				},
 				{
 					"explanations": [
-						"1. Abraham sitting upon Pharaoh’s throne, by the politeness of the king, with a crown upon his head, representing the Priesthood, as emblematical of the grand Presidency in Heaven; with the scepter of justice and judgment in his hand.",
+						"1. Abraham sitting upon Pharaoh's throne, by the politeness of the king, with a crown upon his head, representing the Priesthood, as emblematical of the grand Presidency in Heaven; with the scepter of justice and judgment in his hand.",
 						"2. King Pharaoh, whose name is given in the characters above his head.",
 						"3. Signifies Abraham in Egypt as given also in Figure 10 of Facsimile No. 1.",
 						"4. Prince of Pharaoh, King of Egypt, as written above the hand.",
-						"5. Shulem, one of the king’s principal waiters, as represented by the characters above his hand.",
+						"5. Shulem, one of the king's principal waiters, as represented by the characters above his hand.",
 						"6. Olimlah, a slave belonging to the prince."
 					],
 					"image_url": "https://www.lds.org/scriptures/bc/scriptures/content/english/bible-maps/images/03990_000_fac-3.jpg",
 					"lds_slug": "fac-3",
-					"note": "Abraham is reasoning upon the principles of Astronomy, in the king’s court.",
+					"note": "Abraham is reasoning upon the principles of Astronomy, in the king's court.",
 					"number": 3,
 					"title": "A Facsimile from the Book of Abraham No. 3"
 				}
@@ -2918,7 +2918,7 @@
                         },
                         {
                             "reference": "Joseph Smith—History 1:3",
-                            "text": "I was born in the year of our Lord one thousand eight hundred and five, on the twenty-third day of December, in the town of Sharon, Windsor county, State of Vermont . . . My father, Joseph Smith, Sen., left the State of Vermont, and moved to Palmyra, Ontario (now Wayne) county, in the State of New York, when I was in my tenth year, or thereabouts. In about four years after my father's arrival in Palmyra, he moved with his family into Manchester in the same county of Ontario—",
+                            "text": "I was born in the year of our Lord one thousand eight hundred and five, on the twenty-third day of December, in the town of Sharon, Windsor county, State of Vermont. …  My father, Joseph Smith, Sen., left the State of Vermont, and moved to Palmyra, Ontario (now Wayne) county, in the State of New York, when I was in my tenth year, or thereabouts. In about four years after my father's arrival in Palmyra, he moved with his family into Manchester in the same county of Ontario—",
                             "verse": 3
                         },
                         {
@@ -3038,7 +3038,7 @@
                         },
                         {
                             "reference": "Joseph Smith—History 1:27",
-                            "text": "I continued to pursue my common vocations in life until the twenty—first of September, one thousand eight hundred and twenty-three, all the time suffering severe persecution at the hands of all classes of men, both religious and irreligious, because I continued to affirm that I had seen a vision.",
+                            "text": "I continued to pursue my common vocations in life until the twenty-first of September, one thousand eight hundred and twenty-three, all the time suffering severe persecution at the hands of all classes of men, both religious and irreligious, because I continued to affirm that I had seen a vision.",
                             "verse": 27
                         },
                         {
@@ -3368,9 +3368,9 @@
             "lds_slug": "a-of-f"
         }
     ],
-	"last_modified": "2016-10-01",
+	"last_modified": "2016-10-02",
     "lds_slug": "pgp",
 	"subtitle": "A Selection from the Revelations, Translations, and Narrations of Joseph Smith First Prophet, Seer, and Revelator to The Church of Jesus Christ of Latter-day Saints",
 	"title": "The Pearl of Great Price",
-	"version": 2
+	"version": 3
 }

@@ -64,5 +64,8 @@ data = {
     'version': VERSION,
 }
 
+if len(headings) == 0:
+    del data['headings']
+
 with open('{}-flat.json'.format(output_filename), 'w', encoding='utf-8') as f:
     json.dump(data, f, sort_keys=True, indent=4, ensure_ascii=False)
