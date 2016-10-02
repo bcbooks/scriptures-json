@@ -38,7 +38,7 @@ JSON editions of the LDS scriptures. Includes changes from the [2013 edition](ht
 - The text for the Doctrine & Covenants, Pearl of Great Price, Old Testament, and New Testament comes from the 2013 version of the [Mormon Documentation Project](http://scriptures.nephi.org/) SQLite file. I exported the text, added title page information, and made the [2013 adjustments](https://www.lds.org/scriptures/adjustments?lang=eng).
 - The flat editions are intended for easy iteration through verses, for textual/linguistic analysis or other similar domains. Not included: title pages, testimonies, LDS.org slugs, etc.
 - The reference editions are intended for easy reference in code (`data['1 Nephi']['3']['7]`, for example). Not included: title pages, testimonies, LDS.org slugs, etc.
-- Typographical note: Small caps are rendered as all caps, and italics are not distinguished. (I'm still trying to figure out the best way to handle formatting. At this point, I'm leaning toward having a `formatted` property with a copy of the verse text, using some kind of XML for formatting -- `and it <i>came</i> to pass, saith the <smcp>Lord</smcp> God`, or something like that.)
+- Typographical note: Small caps are rendered as all caps, and italics are not distinguished. (I'm still trying to figure out the best way to handle formatting. At this point, I'm leaning toward having a `formatted` property with a copy of the verse text, using some kind of XML for formatting -- `and it <i>came</i> to pass, saith the <smcp>Lord</smcp> God`, or something like that.) Curly quotes have been straightened, though I'm already having second thoughts about that.
 
 
 ### License
@@ -75,6 +75,7 @@ These files are in the public domain.
     - Ether 13:5 — "the house of Israel." -> "the house of Israel—"
     - Moroni 3:3 — "or, if he be" -> "or if he be"
 - Doctrine & Covenants version 3
+    - Straightens curly quotes
     - D&C 11:1 — "A Great and marvelous work" -> "A great and marvelous work"
     - D&C 18:18 — "Ask the Father in my name, in faith believing" -> "Ask the Father in my name in faith, believing"
     - D&C 20:12 — "today,and" -> "today, and"
