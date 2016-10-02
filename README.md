@@ -13,7 +13,9 @@ JSON editions of the LDS scriptures. Includes changes from the [2013 edition](ht
     - Includes the facsimiles
     - Does not include introduction (under copyright)
 - `old-testament.json`: version 1 (ot-1)
+    - Does not include JST
 - `new-testament.json`: version 1 (nt-1)
+    - Does not include JST
 - `flat/*`: flat editions, only includes headings and verses
     - `flat/book-of-mormon-flat.json`: version 2 (source bom-4)
     - `flat/doctrine-and-covenants-flat.json`: version 2 (source dc-3)
