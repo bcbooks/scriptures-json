@@ -1,0 +1,10 @@
+.navbar{
+	margin-bottom: 0;
+}
+.main{
+    float:none;
+}
+.vertical-center-row{
+    top: 50%;
+    margin-top: 50px;
+}
