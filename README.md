@@ -81,7 +81,7 @@ These files are in the public domain.
     - D&C 11:1 — "A Great and marvelous work" -> "A great and marvelous work"
     - D&C 18:18 — "Ask the Father in my name, in faith believing" -> "Ask the Father in my name in faith, believing"
     - D&C 20:12 — "today,and" -> "today, and"
-    - D&C 38:14 — "practise" -> "practice"
+    - D&C 38:24 — "practise" -> "practice"
     - D&C 43:1 — "O HEARKEN, ye elders" -> "O hearken, ye elders"
     - D&C 46:33 — "practise" -> "practice"
     - D&C 52:39 — "practised" -> "practiced"
