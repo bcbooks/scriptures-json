@@ -1,5 +1,6 @@
 {
  "name": "@bencrowder/scriptures-in-json",
+ "version": "1.0.1",
  "description": "LDS scriptures in JSON format",
  "author": "Ben Crowder <ben.crowder@gmail.com> (https://bencrowder.net/)",
  "keywords": [
@@ -8,7 +9,6 @@
   "scriptures"
  ],
  "license": "CC0-1.0",
- "version": "1.0.0",
  "bugs": {
   "url": "https://github.com/bcbooks/scriptures-json/issues",
   "email": "ben.crowder@gmail.com"
