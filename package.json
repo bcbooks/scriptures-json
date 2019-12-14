@@ -1,21 +1,21 @@
 {
- "name": "@bencrowder/scriptures-json",
- "version": "1.0.0",
- "description": "LDS scriptures in JSON format",
- "author": "Ben Crowder <ben.crowder@gmail.com> (https://bencrowder.net/)",
- "keywords": [
-  "lds",
-  "mormon",
-  "scriptures"
- ],
- "license": "CC0-1.0",
- "bugs": {
-  "url": "https://github.com/bcbooks/scriptures-json/issues",
-  "email": "ben.crowder@gmail.com"
- },
- "homepage": "https://bencrowder.net/mormon/scriptures-in-json/",
- "repository": {
-  "type": "git",
-  "url": "https://github.com/bcbooks/scriptures-json"
- }
+	"name": "@bencrowder/scriptures-json",
+	"version": "1.0.1",
+	"description": "LDS scriptures in JSON format",
+	"author": "Ben Crowder <ben.crowder@gmail.com> (https://bencrowder.net/)",
+	"keywords": [
+		"lds",
+		"mormon",
+		"scriptures"
+	],
+	"license": "CC0-1.0",
+	"bugs": {
+		"url": "https://github.com/bcbooks/scriptures-json/issues",
+		"email": "ben.crowder@gmail.com"
+	},
+	"homepage": "https://bencrowder.net/religious/scriptures-in-json/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bcbooks/scriptures-json"
+	}
 }
